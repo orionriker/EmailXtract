@@ -25,6 +25,7 @@ PySOCKS (Optional. Should be installed when using a SOCKS Proxy)<br>
 `pip install pysocks`
 <br>
 <br>
+<br>
 
 ## 🔧 Usage
 **Normal usage:**<br>
