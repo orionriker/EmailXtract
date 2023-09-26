@@ -1,6 +1,8 @@
 # EmaiXtract
 EmaiXtract, is a email scraper made in python.
 
+**[!] Legal Disclaimer: EmailXtract is intended for ethical security research and vulnerability assessment purposes only.
+Using EmailXtract to attack targets without explicit mutual consent is illegal and strictly prohibited. End users are solely responsible for complying with all relevant laws and regulations. The developer(s) assume no liability for misuse or damage caused by EmailXtract. Use responsibly and lawfully.**
 
 ## Features
 - **Proxy Support**: The script supports the use of proxies for enhanced privacy and anonymity during scraping. Proxies can be specified through the --proxies parameter.
