@@ -20,15 +20,15 @@ PySOCKS (Optional. Should be installed when using a SOCKS Proxy)
 `pip install pysocks`
 
 ## Usage
-**Normal usage:**
+**Normal usage:**<br>
 `python emailxtract.py`
 
-**With proxy usage:**
+**With proxy usage:**<br>
 `python emailxtract.py --proxies http://<proxy type>://<proxy address>:<proxy port>`<br>
 example(s):<br>
 `python emailxtract.py --proxies http://socks5://127.0.0.1:9050`
 
-**With Multiple proxy usage:**
+**With Multiple proxy usage:**<br>
 `python emailxtract.py --proxies http://<proxy type>://<proxy address>:<proxy port>,http://<proxy type>://<proxy address>:<proxy port>`<br>
 example(s):<br>
 `python emailxtract.py --proxies http://socks5://127.0.0.1:9050,http://socks5://127.0.0.1:2020`
