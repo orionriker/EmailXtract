@@ -1,2 +1,34 @@
 # EmaiXtract
 EmaiXtract, is a email scraper made in python.
+
+
+## Features
+- **Proxy Support**: The script supports the use of proxies for enhanced privacy and anonymity during scraping. Proxies can be specified through the --proxies parameter.
+
+- **CloudFlare Email Protection Bypass**: The script includes a function, cfDecodeEmail, which decodes email addresses protected using CloudFlare's email obfuscation techniques.
+
+- **Email Scraping**: The script uses the requests library to fetch the content from the specified URL. It then uses the BeautifulSoup library to parse the HTML content and extract email addresses.
+
+- **Scraped Email Storage**: The script saves the scraped email addresses to a file named "scraped_emails.txt" and displays the scraped emails on the console.
+
+- **Enable/Disable Redirects**: The script allows users to choose whether to enable or disable redirects when making requests to the specified URL.
+
+## Dependencies
+BS4:
+`pip install bs4`
+PySOCKS (Optional. Should be installed when using a SOCKS Proxy)
+`pip install pysocks`
+
+## Usage
+**Normal usage:**
+`python emailxtract.py`
+
+**With proxy usage:**
+`python emailxtract.py --proxies http://<proxy type>://<proxy address>:<proxy port>`
+example(s):
+`python emailxtract.py --proxies http://socks5://127.0.0.1:9050`
+
+**With Multiple proxy usage:**
+`python emailxtract.py --proxies http://<proxy type>://<proxy address>:<proxy port>,http://<proxy type>://<proxy address>:<proxy port>`
+example(s):
+`python emailxtract.py --proxies http://socks5://127.0.0.1:9050,http://socks5://127.0.0.1:2020`
