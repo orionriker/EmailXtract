@@ -30,6 +30,8 @@ PySOCKS (Optional. Should be installed when using a SOCKS Proxy)<br>
 <br>
 
 ## 🔧 Usage
+NOTE: If using Minified Version then type "-min" after emailxtract<br>
+
 **Normal usage:**<br>
 `python emailxtract.py`
 
