@@ -16,6 +16,7 @@ Using EmailXtract to attack targets without explicit mutual consent is illegal a
 
 - **Enable/Disable Redirects**: The script allows users to choose whether to enable or disable redirects when making requests to the specified URL.
 <br>
+<br>
 
 ## 📦 Dependencies
 BS4 (Required):<br>
@@ -23,6 +24,7 @@ BS4 (Required):<br>
 
 PySOCKS (Optional. Should be installed when using a SOCKS Proxy)<br>
 `pip install pysocks`
+<br>
 <br>
 
 ## 🔧 Usage
