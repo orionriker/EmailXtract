@@ -3,7 +3,7 @@
 > EmailXtract is intended for ethical security research and vulnerability assessment purposes only.
 Using EmailXtract to attack targets without explicit mutual consent is illegal and strictly prohibited. End users are solely responsible for complying with all relevant laws and regulations. The developer(s) assume no liability for misuse or damage caused by EmailXtract. Use responsibly and lawfully.
 
-![EmailXtract-ReadME-Banner](https://github.com/gamemaster123356/EmailXtract/blob/github-assets/EmailXtract-ReadMe.png?raw=true)
+![EmailXtract-ReadMe-Banner](https://github.com/gamemaster123356/EmailXtract/blob/github-assets/EmailXtract_ReadMe.png?raw=true)
 <br>
 
 <div align="center">
