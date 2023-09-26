@@ -1,8 +1,9 @@
+> **Warning** **[!] Legal Disclaimer:**<br>
+> EmailXtract is intended for ethical security research and vulnerability assessment purposes only.
+Using EmailXtract to attack targets without explicit mutual consent is illegal and strictly prohibited. End users are solely responsible for complying with all relevant laws and regulations. The developer(s) assume no liability for misuse or damage caused by EmailXtract. Use responsibly and lawfully.
+
 # EmailXtract
 This Python script is designed for fast, efficient email scraping from websites. It offers a range of features, including proxy support for enhanced privacy, a CloudFlare email protection bypass function, Scraped emails will be stored in a "scraped_emails.txt" file and displayed on the console. Additionally, users have the option to enable or disable redirects when making requests to the specified URL.
-
-**[!] Legal Disclaimer: EmailXtract is intended for ethical security research and vulnerability assessment purposes only.
-Using EmailXtract to attack targets without explicit mutual consent is illegal and strictly prohibited. End users are solely responsible for complying with all relevant laws and regulations. The developer(s) assume no liability for misuse or damage caused by EmailXtract. Use responsibly and lawfully.**
 <br>
 <br>
 <br>
