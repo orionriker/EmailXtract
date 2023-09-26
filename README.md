@@ -3,7 +3,9 @@
 > EmailXtract is intended for ethical security research and vulnerability assessment purposes only.
 Using EmailXtract to attack targets without explicit mutual consent is illegal and strictly prohibited. End users are solely responsible for complying with all relevant laws and regulations. The developer(s) assume no liability for misuse or damage caused by EmailXtract. Use responsibly and lawfully.
 
-# EmailXtract
+![EmailXtract-ReadME-Banner](https://github.com/gamemaster123356/EmailXtract/blob/github-assets/EmailXtract-ReadME.png?raw=true)
+<br>
+
 <div align="center">
   <img alt="GitHub release (release name instead of tag name)" src="https://img.shields.io/github/v/release/gamemaster123356/EmailXtract?color=dodgerblue&include_prereleases&label=latest&sort=date&style=for-the-badge">
   <img alt="GitHub Stars" src="https://img.shields.io/github/stars/gamemaster123356/EmailXtract?color=dodgerblue&label=stars&style=for-the-badge">
