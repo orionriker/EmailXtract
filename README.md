@@ -1,3 +1,3 @@
 <div align="center">
-   <h1>Github Assets</h1>
+   <h1>EmailXtract - Github Assets</h1>
 </div>
