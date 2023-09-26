@@ -18,6 +18,7 @@ Using EmailXtract to attack targets without explicit mutual consent is illegal a
 ## 📦 Dependencies
 BS4 (Required):<br>
 `pip install bs4`<br>
+
 PySOCKS (Optional. Should be installed when using a SOCKS Proxy)<br>
 `pip install pysocks`
 
