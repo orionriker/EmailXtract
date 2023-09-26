@@ -9,7 +9,7 @@ Using EmailXtract to attack targets without explicit mutual consent is illegal a
   <img alt="GitHub Stars" src="https://img.shields.io/github/stars/gamemaster123356/EmailXtract?color=dodgerblue&label=stars&style=for-the-badge">
   <img alt="GitHub Issues" src="https://img.shields.io/github/issues/gamemaster123356/EmailXtract?color=dodgerblue&label=issues&style=for-the-badge">
   <img alt="GitHub License" src="https://img.shields.io/badge/LICENSE-gnu%20gpl%20v3-dodgerblue?style=for-the-badge">
-</div>
+</div><br><br>
 
 This Python script is designed for fast, efficient email scraping from websites. It offers a range of features, including proxy support for enhanced privacy, a CloudFlare email protection bypass function, Scraped emails will be stored in a "scraped_emails.txt" file and displayed on the console. Additionally, users have the option to enable or disable redirects when making requests to the specified URL.
 <br>
