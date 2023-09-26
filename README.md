@@ -24,11 +24,11 @@ PySOCKS (Optional. Should be installed when using a SOCKS Proxy)
 `python emailxtract.py`
 
 **With proxy usage:**
-`python emailxtract.py --proxies http://<proxy type>://<proxy address>:<proxy port>`
-example(s):
+`python emailxtract.py --proxies http://<proxy type>://<proxy address>:<proxy port>`<br>
+example(s):<br>
 `python emailxtract.py --proxies http://socks5://127.0.0.1:9050`
 
 **With Multiple proxy usage:**
-`python emailxtract.py --proxies http://<proxy type>://<proxy address>:<proxy port>,http://<proxy type>://<proxy address>:<proxy port>`
-example(s):
+`python emailxtract.py --proxies http://<proxy type>://<proxy address>:<proxy port>,http://<proxy type>://<proxy address>:<proxy port>`<br>
+example(s):<br>
 `python emailxtract.py --proxies http://socks5://127.0.0.1:9050,http://socks5://127.0.0.1:2020`
