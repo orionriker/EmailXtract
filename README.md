@@ -4,6 +4,7 @@ This Python script is designed for fast, efficient email scraping from websites.
 **[!] Legal Disclaimer: EmailXtract is intended for ethical security research and vulnerability assessment purposes only.
 Using EmailXtract to attack targets without explicit mutual consent is illegal and strictly prohibited. End users are solely responsible for complying with all relevant laws and regulations. The developer(s) assume no liability for misuse or damage caused by EmailXtract. Use responsibly and lawfully.**
 
+
 ## ⭐ Features
 - **Proxy Support**: The script supports the use of proxies for enhanced privacy and anonymity during scraping. Proxies can be specified through the --proxies parameter.
 
@@ -15,12 +16,14 @@ Using EmailXtract to attack targets without explicit mutual consent is illegal a
 
 - **Enable/Disable Redirects**: The script allows users to choose whether to enable or disable redirects when making requests to the specified URL.
 
+
 ## 📦 Dependencies
 BS4 (Required):<br>
 `pip install bs4`<br>
 
 PySOCKS (Optional. Should be installed when using a SOCKS Proxy)<br>
 `pip install pysocks`
+
 
 ## 🔧 Usage
 **Normal usage:**<br>
